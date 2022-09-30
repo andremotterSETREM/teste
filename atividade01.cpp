@@ -10,8 +10,7 @@ void chamarFors(){
        for (int j = 1; j <= i; ++j) {
            cout << i;
        }
-       cout << endl;
-   }
+
  
    int mes = 1;
    int semanas = 4, diasDaSemana = 7;
